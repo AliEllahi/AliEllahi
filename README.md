@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**AliEllahi/AliEllahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Smart contract developer focused on security. I'm learning Solidity in public, together with a friend.
 
-Here are some ideas to get you started:
+## What I'm working on now
+- Planning to: contribute invariant tests to [erc4626-donation-attack-lab](https://github.com/HesamQorbani/erc4626-donation-attack-lab)
+- Planning to: work through Cyfrin Updraft, Ethernaut and Damn Vulnerable DeFi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I know so far
+- Solidity basics, ERC-20, staking and vault patterns
+- Reading and reviewing contracts, including AI-generated ones
+
+## How I work
+- I'm practicing writing the test first and explaining every line I commit
+- I use AI tools openly and verify what they produce
+- I write down what I found and what I'm still unsure about
+
+## Looking for
+Smart contract development and security roles, remote.
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/ali-elahi-48ba653a0/
