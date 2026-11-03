@@ -3,7 +3,6 @@
 Smart contract developer focused on security. I'm learning Solidity in public, together with a friend.
 
 ## What I'm working on now
-## What I'm working on now
 - Done: reproduced a reentrancy attack in Foundry and fixed it → [reentrancy-attack-lab](https://github.com/AliEllahi/reentrancy-attack-lab)
 - Planning to: contribute invariant tests to [erc4626-donation-attack-lab](https://github.com/HesamQorbani/erc4626-donation-attack-lab)
 - Planning to: work through Cyfrin Updraft, Ethernaut and Damn Vulnerable DeFi
